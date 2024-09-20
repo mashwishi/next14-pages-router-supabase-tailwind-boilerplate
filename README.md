@@ -14,7 +14,7 @@ A simple boilerplate for starting a Next.js 14 pages router project with Supabas
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/mashwishi/NextSupabase-Tailwind-Boilerplate.git
+git clone https://github.com/mashwishi/next14-pages-router-supabase-tailwind-boilerplate.git
 ```
 
 ### 2. Install Dependencies
@@ -53,3 +53,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## License
 
 This project is licensed under the MIT License.
+
+## Visitors
+<img src="https://profile-counter.glitch.me/next14-pages-router-supabase-tailwind-boilerplate/count.svg" />
